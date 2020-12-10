@@ -20,9 +20,9 @@
 
 ## More features & demo
 
-- Extension Details : https://www.magetop.com/magento-2-mobile-application.html
-- Adroid App Demo : https://www.magetop.com/magento-2-mobile-application.html
-- iOS App Demo : https://www.magetop.com/magento-2-mobile-application.html
+- Extension details : https://www.magetop.com/magento-2-mobile-application.html
+- Adroid app demo : https://www.magetop.com/magento-2-mobile-application.html
+- iOS app demo : https://www.magetop.com/magento-2-mobile-application.html
 
 ## Support & contact info
 
