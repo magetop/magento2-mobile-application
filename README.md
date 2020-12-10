@@ -1,4 +1,4 @@
-# Magento 2 Mobile App Builder ( Adroid / iOS ) by MageTop
+# Magento 2 Mobile App Builder by Magetop
 
 **Magento 2 Mobile App Builder ( Adroid / iOS )** by Magetop helps convert your Magento store to Android and IOS Mobile applications and gain customers trust and increase sales. Your mobile apps are faster than website and can increase your sales.
 
@@ -18,13 +18,13 @@
 - 100% Open-source, Support multi-store, Support multi-language...
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension Details : https://www.magetop.com/magento-2-mobile-application.html
 - Adroid App Demo : https://www.magetop.com/magento-2-mobile-application.html
 - iOS App Demo : https://www.magetop.com/magento-2-mobile-application.html
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
